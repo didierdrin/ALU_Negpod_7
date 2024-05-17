@@ -12,3 +12,10 @@ Didier N.
 mkdir (Create a directory) 
 rm (Remove a file/directory) 
 
+Eddy U.
+-------
+cp (Copy files or directories)
+mv (Move or rename files or directories)
+touch (Create an empty file or update the timestamp of an existing file)
+kill (Terminate processes)
+tar (Archive files)
